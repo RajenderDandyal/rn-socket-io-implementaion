@@ -1,0 +1,1 @@
+A socket.io-client implementation in react native to connect a chat app with socket. Just a basic implementation for socket connection.
